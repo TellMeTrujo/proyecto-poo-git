@@ -6,4 +6,8 @@ public class Tarea{
         dato1 = 0;
         dato2 = 15;
     }
+
+    void calcularTarea(){
+        
+    }
 }
